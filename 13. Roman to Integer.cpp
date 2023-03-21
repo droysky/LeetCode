@@ -27,5 +27,6 @@ int main() {
 
   cout << s.romanToInt("LVIII") << endl;
   cout << s.romanToInt("MCMXCIV") << endl;
+  cout << s.romanToInt("ICMXCIV") << endl;
   return 0;
 }
